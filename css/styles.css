@@ -27,13 +27,15 @@ main {
   width: 99%; /* 1000px/1000px=100%*/
 }
 li {
+  color: gray;
   float: left;
   list-style: none;
 }
 
 
 a:link {
-  border: 2px solid maroon;
+  
+  border: 2px solid white;
   display: block;
   line-height: 50px;
   margin: 1em;
@@ -51,10 +53,8 @@ a:hover {
   margin-top: 30px;
   
   transition: all .5s;
-  
-  
-
- 
-
-        
+      
+}
+input{
+  display: block;
 }
