@@ -75,7 +75,7 @@ label {
   transition: all 1s;
 }
 header{
-    z-index: 10;
+    z-index: -1;
     position: fixed;
     bottom: auto;
     right: auto;
